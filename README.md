@@ -84,30 +84,30 @@ Search Result: A greeting or expression of goodwill.
 
 Contributions are welcome! To contribute:
 
-1. Fork the Repository
+1. **Fork the Repository**
 
    Click on the "Fork" button at the top-right corner of the repository page on GitHub.
 
-2. Create a New Branch
+2. **Create a New Branch**
 
    ```bash
    git checkout -b feature-branch
 
-3. Make Your Changes
+3. **Make Your Changes**
 
    Edit the code or documentation as needed.
 
-4. Commit Your Changes
+4. **Commit Your Changes**
 
    ```bash
    git commit -am 'Add new feature'
 
-5. Push to the Branch
+5. **Push to the Branch**
 
    ```bash
    git push origin feature-branch
 
-6. Create a Pull Request
+6. **Create a Pull Request**
 
    Go to the repository on GitHub and create a new Pull Request from your branch.
 
@@ -115,7 +115,7 @@ Please ensure that your code follows the project's coding standards and includes
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
