@@ -43,17 +43,17 @@ This C++ console application provides a simple dictionary management system usin
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/iakashchoudhary/Dictionary-Application.git
 
 2. **Navigate to the Project Directory**
 
    ```bash
-   cd your-repo
+   cd Dictionary-Application
 
 3. **Compile the Code**
 
    ```bash
-   g++ -o DictionaryApplication DictionaryApplication.cpp
+   g++ -o Dictionary-Application DictionaryApplication.cpp
 
 4. **Run the Application**
 
