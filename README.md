@@ -1,6 +1,20 @@
 # Dictionary Application
 A C++ application that implements a dictionary using a hash table with linear probing. Provides functionality to add, search, delete words, and display the dictionary contents.
 
+## Table of Contents
+
+- [Overview](#overview)
+- [Features](#features)
+- [Implementation Details](#implementation-details)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+  - [Example Interaction](#example-interaction)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+
 ## Overview
 
 This C++ console application provides a simple dictionary management system using a hash table with linear probing for collision resolution. Users can perform operations such as adding, searching, deleting, and displaying words and their meanings.
@@ -60,7 +74,7 @@ Upon running the application, you will be presented with a menu:
 
 5. **Exit:** Close the application.
 
-## Example Interaction
+### Example Interaction
 
 Dictionary Application
 
