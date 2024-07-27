@@ -76,23 +76,10 @@ Upon running the application, you will be presented with a menu:
 
 ### Example Interaction
 
-Dictionary Application
+![image](https://github.com/user-attachments/assets/56b041ff-fe40-419f-8348-e0757dc9bb7e)
 
-1. Add Word
-2. Search Word
-3. Delete Word
-4. Display Dictionary
-5. Exit
-Enter your choice: 1
+![image](https://github.com/user-attachments/assets/cdb8ac02-c201-4e8c-b593-ce5348a58e68)
 
-Enter word: Hello
-Enter meaning: A greeting or expression of goodwill.
-Word added to the dictionary.
-
-Enter your choice: 2
-
-Enter word to search: Hello
-Search Result: A greeting or expression of goodwill.
 
 ## Contributing
 
