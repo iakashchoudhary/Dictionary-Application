@@ -46,7 +46,7 @@ This C++ console application provides a simple dictionary management system usin
    ```bash
    ./DictionaryApplication
 
-### Usage
+## Usage
 
 Upon running the application, you will be presented with a menu:
 
@@ -60,7 +60,7 @@ Upon running the application, you will be presented with a menu:
 
 5. **Exit:** Close the application.
 
-### Example Interaction
+## Example Interaction
 
 Dictionary Application
 
@@ -80,7 +80,7 @@ Enter your choice: 2
 Enter word to search: Hello
 Search Result: A greeting or expression of goodwill.
 
-### Contributing
+## Contributing
 
 Contributions are welcome! To contribute:
 
@@ -113,10 +113,10 @@ Contributions are welcome! To contribute:
 
 Please ensure that your code follows the project's coding standards and includes appropriate tests.
 
-### License
+## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-### Contact
+## Contact
 
 For any questions or suggestions, please open an issue on GitHub or submit a pull request.
